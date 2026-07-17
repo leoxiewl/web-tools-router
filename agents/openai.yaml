@@ -1,0 +1,4 @@
+interface:
+  display_name: "Web Tools Router"
+  short_description: "Route web tasks to the lightest suitable tool"
+  default_prompt: "Use $web-tools-router to choose and execute the right web search, fetch, structured CLI, or browser path."

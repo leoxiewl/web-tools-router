@@ -26,9 +26,11 @@ Copy `SKILL.md`, `references/`, and optionally `agents/` into a `web-tools-route
 |---|---|
 | Codex | `~/.codex/skills/web-tools-router/` |
 | Claude Code | `~/.claude/skills/web-tools-router/` |
-| WorkBuddy | `~/.workbuddy/skills/web-tools-router/` |
+| WorkBuddy | `~/.codebuddy/skills/web-tools-router/` |
 
-Restart the host or open a new task if it does not refresh Skills dynamically.
+WorkBuddy stores marketplace-managed Skills under `~/.workbuddy/skills/`, but
+user-created Skills belong under `~/.codebuddy/skills/`. Restart the host or
+open a new task if it does not refresh Skills dynamically.
 
 ## Optional tools
 

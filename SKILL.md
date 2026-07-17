@@ -1,6 +1,7 @@
 ---
 name: web-tools-router
 description: Route web research and website interaction tasks across host-native web search/fetch, OpenCLI, and agent-browser. Use whenever an agent needs to search by keywords, read or extract a URL, query a supported website through a deterministic CLI adapter, operate a JavaScript-rendered or authenticated page, fill forms, click controls, capture screenshots, or recover from web tool failures.
+user-invocable: true
 ---
 
 # Web Tools Router
